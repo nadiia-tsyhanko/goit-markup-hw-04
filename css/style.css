@@ -536,7 +536,7 @@ img{
     height: 40px;
     border-radius: 50%;
     background-color: #4d5ae5;
-    
+     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 
 }
@@ -553,8 +553,4 @@ img{
     width: 24px ;
 }
 
-.socialmedia-list-item:hover,
-.socialmedia-list-item:focus {
-    
-    transition: background-color 250ms cubic- bezier(0.4, 0, 0.2, 1);
-}
+
