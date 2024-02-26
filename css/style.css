@@ -525,9 +525,7 @@ img{
 
 
 }
-.socialmedia-list-item{
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+
 
 .socialmedia-list-link {
     display: flex;
@@ -550,4 +548,7 @@ img{
 .socialmedia-list-link:hover,
 .socialmedia-list-link:focus {
     background-color: #31d0aa;
+}
+.socialmedia-list-link{
+transition: background-color 250ms cubic- bezier(0.4, 0, 0.2, 1);
 }
