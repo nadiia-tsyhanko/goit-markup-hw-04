@@ -526,7 +526,7 @@ img{
 
 }
 .socialmedia-list-item{
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .socialmedia-list-link {
@@ -544,6 +544,7 @@ img{
 
 .socialmedia-list-icon{
     fill:#f4f4fd ;
+    width: 24px ;
 }
 
 .socialmedia-list-link:hover,
