@@ -536,7 +536,7 @@ img{
     height: 40px;
     border-radius: 50%;
     background-color: #4d5ae5;
-     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 
 }
@@ -550,7 +550,7 @@ img{
 
 .socialmedia-list-icon{
     fill:#f4f4fd ;
-    width: 24px ;
+    
 }
 
 
